@@ -7,4 +7,4 @@ var t = setInterval(() => {
   if (i === 3) {
     clearInterval(t);
   }
-}, 1000);
+}, 2000);
